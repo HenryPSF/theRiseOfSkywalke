@@ -31,7 +31,7 @@ Because the REST API uses HTTP, they can be used by virtually any programming la
 
 - Operations: The most important operations related to the data in any REST system and the HTTP specification are four; POST (create), GET (read and consult), PUT (edit) and DELETE (delete).
 
-### HelloWord API with Node.js
+### HelloWorld API with Node.js
 We can easily create a basic web server to answer any request. Simply by using the Node.js HTTP package, as shown below. This will create a server and listen to any kind of requests at the URL http://127.0.0.1:8000/. When a request is received, it will be answered by sending the text in reply: "Hello World!".
 
 _You must have installed **node.js** before to create the helloWorld API_
