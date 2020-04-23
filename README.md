@@ -5,7 +5,7 @@
 - [Overview](#overview)
 - [Introduction](#introduction)
 - [What is a API REST and how it works](#what-is-a-API-rest-and-how-it-works)
-    - [HelloWorld API with node.js](#helloWord-API-with-node.js)
+    - [HelloWorld API with node.js](#helloWorld-API-with-node.js)
 - [What Is Express framework](#what-is-express-framework?)
     - [HelloWorld API with express](#helloWorld-api-with-express)
 - [What Is Serverless?](#what-is-serverless)
